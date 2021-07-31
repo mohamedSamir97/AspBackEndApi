@@ -1,0 +1,198 @@
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.Development.json
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.json
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.exe
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.deps.json
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.json
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.dev.json
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ref\YouDontKnowEgypt.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.pdb
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Humanizer.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csprojAssemblyReference.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.GeneratedMSBuildEditorConfig.editorconfig
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfoInputs.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfo.cs
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CoreCompileInputs.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cs
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.Manifest.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.xml
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\scopedcss\bundle\YouDontKnowEgypt.styles.css
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.RazorTargetAssemblyInfo.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CopyComplete
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\ref\YouDontKnowEgypt.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.pdb
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.genruntimeconfig.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Castle.Core.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.json
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.exe
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.deps.json
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.json
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.dev.json
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ref\YouDontKnowEgypt.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.pdb
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Humanizer.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csprojAssemblyReference.cache
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfoInputs.cache
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfo.cs
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CoreCompileInputs.cache
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.Manifest.cache
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.xml
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\scopedcss\bundle\YouDontKnowEgypt.styles.css
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.RazorTargetAssemblyInfo.cache
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CopyComplete
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\ref\YouDontKnowEgypt.dll
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.pdb
+C:\Users\0\Downloads\Compressed\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.genruntimeconfig.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.Development.json
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.json
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.exe
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.deps.json
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.json
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.dev.json
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ref\YouDontKnowEgypt.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Castle.Core.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Humanizer.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csprojAssemblyReference.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.GeneratedMSBuildEditorConfig.editorconfig
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfoInputs.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfo.cs
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CoreCompileInputs.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cs
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.Manifest.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.xml
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\scopedcss\bundle\YouDontKnowEgypt.styles.css
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.RazorTargetAssemblyInfo.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CopyComplete
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\ref\YouDontKnowEgypt.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\YouDontKnowEgypt\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.genruntimeconfig.cache
